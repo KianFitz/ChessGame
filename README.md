@@ -5,7 +5,7 @@ This repository holds a personal project which I am creating as an entry for lea
 It will contain 3 major projects.
 
 * ChessGame.Core  
-    >Contains the core logic, including the Vulkan or OpenGL (undecided) rendering methods, the fonts, the UI, and the core game loop
+    >Contains the core logic, including the SDL rendering methods, the fonts, the UI, and the core game loop
 * ChessGame.Multiplayer
     >Attempts to abstract the multiplayer layer as much as possible, will include both the client and the server 
 * ChessGame.Engine
